@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagarrjk" target="_blank">
+  <a href="https://linkedin.com/in/sagarrajak01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:sagarrjk@gmail.com">
+  <a href="mailto:sagarrajak01@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sagarrajak01&color=blue&style=flat-square" alt="profile views"/>
@@ -14,11 +14,11 @@
 ---
 
 ### 💡 About Me
-- 🎯 Passionate about **building efficient and scalable applications**
-- 💻 Skilled in **Python, C++, Flask, React, and SQL**
-- 🌱 Currently learning **DevOps, API design, and Cloud deployment**
-- 📂 Exploring **AI-based software systems and automation tools**
-- ⚡ Focused on clean code, clarity, and performance
+- 🎯 Passionate about **building efficient, secure, and scalable applications**
+- 💻 Skilled in **Python, C++, Java, Express.js, MongoDB, and SQL**
+- 🌱 Currently exploring **Cybersecurity, API design, and Machine Learning**
+- ⚙️ Interested in **AI-powered automation and system optimization**
+- ⚡ Dedicated to writing clean, modular, and high-performance code
 
 ---
 
@@ -28,7 +28,9 @@
   <img src="https://img.shields.io/badge/C++-000?logo=c%2B%2B&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript"/>
   <img src="https://img.shields.io/badge/React-000?logo=react"/>
-  <img src="https://img.shields.io/badge/Flask-000?logo=flask"/>
+  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-000?logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb"/>
   <img src="https://img.shields.io/badge/MySQL-000?logo=mysql"/>
   <img src="https://img.shields.io/badge/Git-000?logo=git"/>
   <img src="https://img.shields.io/badge/Linux-000?logo=linux"/>
@@ -48,16 +50,26 @@
 
 ---
 
-### 🏆 Highlights
-- 🚀 Created **Polyglot App** – a Software Engineering project demonstrating multilingual capability  
-- 📘 Experienced in **software design, modular architecture, and clean documentation**
-- 🎓 From **NIT Trichy** – strong foundation in Computer Applications
+### 🏆 Projects & Highlights
+- 🚀 **Polyglot App** – a multilingual software engineering project built for scalable translation and user interaction  
+- 💬 **IQ Chat Analyzer** – Python-based WhatsApp chat analysis system using NLP and data visualization  
+- 🧩 Experienced in **software design, modular architecture, and clean documentation**
 
 ---
 
-### 🧩 Achievements
+### 🧠 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sagarrajak01&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/sagarrajak01">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" />
+  </a>
+  <a href="mailto:sagarrajak01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail" />
+  </a>
+</p>
