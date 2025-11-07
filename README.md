@@ -38,29 +38,10 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagarrajak01&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarrajak01&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarrajak01&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ### 🏆 Projects & Highlights
 - 🚀 **Polyglot App** – a multilingual software engineering project built for scalable translation and user interaction  
 - 💬 **IQ Chat Analyzer** – Python-based WhatsApp chat analysis system using NLP and data visualization  
 - 🧩 Experienced in **software design, modular architecture, and clean documentation**
-
----
-
-### 🧠 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sagarrajak01&theme=tokyonight&no-frame=true&column=6" />
-</p>
 
 ---
 
