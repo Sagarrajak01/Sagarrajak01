@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Sagar Rajak</h1>
-<h3 align="center">Software Engineer | Problem Solver | Tech Explorer</h3>
+<h1 align="center"> Hii, I am Sagar Rajak</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sagarrajak01" target="_blank">
@@ -13,16 +13,16 @@
 
 ---
 
-### 💡 About Me
-- 🎯 Passionate about **building efficient, secure, and scalable applications**
-- 💻 Skilled in **Python, C++, Java, Express.js, MongoDB, and SQL**
-- 🌱 Currently exploring **Cybersecurity, API design, and Machine Learning**
-- ⚙️ Interested in **AI-powered automation and system optimization**
-- ⚡ Dedicated to writing clean, modular, and high-performance code
+###  About Me
+-  Passionate about **building efficient, secure, and scalable applications**
+-  Skilled in **Python, C++, Java, Express.js, MongoDB, and SQL**
+-  Currently exploring **Cybersecurity, API design, and Machine Learning**
+-  Interested in **AI-powered automation and system optimization**
+-  Dedicated to writing clean, modular, and high-performance code
 
 ---
 
-### 🧠 Technical Stack
+###  Technical Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/C++-000?logo=c%2B%2B&logoColor=00599C"/>
@@ -38,14 +38,14 @@
 
 ---
 
-### 🏆 Projects & Highlights
-- 🚀 **Polyglot App** – a multilingual software engineering project built for scalable translation and user interaction  
-- 💬 **IQ Chat Analyzer** – Python-based WhatsApp chat analysis system using NLP and data visualization  
-- 🧩 Experienced in **software design, modular architecture, and clean documentation**
+###  Projects & Highlights
+-  **Polyglot App** –  project built for scalable translation and user interaction  
+-  **IQ Chat Analyzer** – Python-based WhatsApp chat analysis system  
+-  Experienced in **software design, modular architecture, and clean documentation**
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sagarrajak01">
     <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" />
