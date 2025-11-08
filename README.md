@@ -54,3 +54,5 @@
     <img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail" />
   </a>
 </p>
+
+![Metrics](https://metrics.lecoq.io/sagarrajak01?template=classic&languages=1&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FKolkata)
