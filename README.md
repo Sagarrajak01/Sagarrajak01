@@ -39,15 +39,23 @@
 ---
 
 ###  Projects & Highlights
--  **Polyglot App** –  project built for scalable translation and user interaction  
+-  **Polyglot App** – project built for scalable translation and user interaction  
 -  **IQ Chat Analyzer** – Python-based WhatsApp chat analysis system  
 -  Experienced in **software design, modular architecture, and clean documentation**
 
 ---
-### Languages I Use
+
+###  Languages I Use
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarrajak01&layout=compact&theme=tokyonight)
 
 ---
+
+###  GitHub Stats
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarrajak01&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagarrajak01&theme=tokyonight)
+
+---
+
 ###  Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sagarrajak01">
@@ -57,5 +65,3 @@
     <img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail" />
   </a>
 </p>
-
-![Metrics](https://github.com/sagarrajak01/sagarrajak01/blob/main/github-metrics.svg)
