@@ -22,22 +22,6 @@
 
 ---
 
-###  Technical Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/C++-000?logo=c%2B%2B&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-000?logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-000?logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-000?logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-000?logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-000?logo=git"/>
-  <img src="https://img.shields.io/badge/Linux-000?logo=linux"/>
-</p>
-
----
-
 ###  Projects & Highlights
 -  **Polyglot App** – project built for scalable translation and user interaction  
 -  **IQ Chat Analyzer** – Python-based WhatsApp chat analysis system  
@@ -49,19 +33,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarrajak01&layout=compact&theme=tokyonight)
 
 ---
-
-###  GitHub Stats
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarrajak01&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagarrajak01&theme=tokyonight)
-
----
-
-###  Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/sagarrajak01">
-    <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" />
-  </a>
-  <a href="mailto:sagarrajak01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail" />
-  </a>
-</p>
