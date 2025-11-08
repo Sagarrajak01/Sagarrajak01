@@ -44,7 +44,10 @@
 -  Experienced in **software design, modular architecture, and clean documentation**
 
 ---
+### Languages I Use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarrajak01&layout=compact&theme=tokyonight)
 
+---
 ###  Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sagarrajak01">
