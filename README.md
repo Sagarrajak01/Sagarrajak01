@@ -55,4 +55,4 @@
   </a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/sagarrajak01?template=classic&languages=1&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FKolkata)
+![Metrics](https://github.com/sagarrajak01/sagarrajak01/blob/main/github-metrics.svg)
