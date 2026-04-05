@@ -18,5 +18,3 @@ Git • Vim • Linux
 
 ### Core Skills
 Data Structures & Algorithms • OOP
-
----
