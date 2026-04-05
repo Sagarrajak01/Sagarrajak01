@@ -22,7 +22,4 @@ Git • Vim • Linux
 ### Core Skills
 Data Structures & Algorithms • OOP
 
-###  Languages I Use
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sagarrajak01&layout=compact&theme=tokyonight)
-
 ---
