@@ -2,9 +2,6 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagarrajak01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
   <a href="mailto:sagarrajak01@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" />
   </a>
