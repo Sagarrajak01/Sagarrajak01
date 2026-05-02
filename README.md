@@ -11,5 +11,5 @@ React • Node.js • Express
 Azure • Git • Linux
 
 ### Core Skills
-DSA • OOPs
+DSA • OOPs •
 SQL • OS
