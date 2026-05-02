@@ -6,7 +6,7 @@
 </p>
 
 ### Tech Stack
-C++ • JavaScript 
+C++ • JavaScript •
 React • Node.js • Express    
 Azure • Git • Linux
 
