@@ -1,5 +1,4 @@
 <h1 align="center"> Hii, I am Sagar Rajak</h1>
-<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="mailto:sagarrajak01@gmail.com">
@@ -9,12 +8,10 @@
 </p>
 
 ### Tech Stack
-C++ • Python • JavaScript 
-React • Node.js • Express  
-MongoDB • MySQL  
-Scikit-learn • Pandas • NumPy  
-Azure • GitHub Actions   
-Git • Vim • Linux
+C++ • JavaScript 
+React • Node.js • Express    
+Azure • Git • Linux
 
 ### Core Skills
-Data Structures & Algorithms • OOP
+DSA • OOPs
+SQL • OS
