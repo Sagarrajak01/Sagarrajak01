@@ -26,5 +26,5 @@ C++ • JavaScript • Node.js • Express
 Azure • Git • Linux • SQL
 
 ## Core Skills
-DSA • OOPs • Operating Systems
-Computer Networks  
+DSA • OOPs • OS
+• CN  
