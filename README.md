@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sagar Rajak</h1>
+<h1 align="center">Sagar Rajak</h1>
 
 <p align="center">
   <img 
@@ -26,5 +26,5 @@ C++ • JavaScript • Node.js • Express
 Azure • Git • Linux • SQL
 
 ## Core Skills
-DSA • OOPs • Operating Systems •
+DSA • OOPs • Operating Systems
 Computer Networks  
