@@ -10,9 +10,9 @@
 
 ## About Me
 
-- Backend and Systems development engineering
-- Interested in Linux Internals and Distributed Infrastructures
-- Strong focus on DSA and problem solving
+- Backend and Systems Development
+- Interested in Linux Internals, Machine Learning and Distributed Systems
+- Strong focus on Data Structures & Algorithms
 - Building projects around low-latency monitoring infrastructure
 
 ---
@@ -25,17 +25,6 @@
 
 ---
 
-## Core Skills
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- DBMS
-- System Design Basics
-
----
-
 ## GitHub Activity
 
 <p align="center">
@@ -44,10 +33,12 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+## GitHub Statistics
 
 <p align="center">
-  <img align="center" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarrajak01&show_icons=true&theme=default&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb&border_color=e5e7eb&include_all_commits=true&count_private=true&height=192" /> <img align="center" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarrajak01&layout=compact&theme=default&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb&border_color=e5e7eb&height=192" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarrajak01&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarrajak01&layout=compact&theme=default" />
 </p>
 
 ---
