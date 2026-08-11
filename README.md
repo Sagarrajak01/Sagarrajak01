@@ -40,10 +40,4 @@ Building scalable backend systems, developer tools and AI-powered applications.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarrajak01&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-</p>
-
 > *Building software that is simple, scalable and reliable.*
