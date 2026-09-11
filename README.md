@@ -32,12 +32,4 @@ Building scalable backend systems, developer tools and AI-powered applications.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarrajak01&bg_color=ffffff&color=111827&line=2563eb&point=1d4ed8&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph" />
-</p>
-
----
-
 > *Building software that is simple, scalable and reliable.*
