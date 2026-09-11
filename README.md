@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-MCA @ NIT Trichy
+NIT Trichy (MCA '27)
 </h3>
 
 <p align="center">
@@ -16,10 +16,9 @@ Building scalable backend systems, developer tools and AI-powered applications.
 
 ## About Me
 
-- Backend and Systems Development
-- Interested in Linux Internals, Distributed Systems and Machine Learning
+- Backend Development and Artificial Intelligence
+- Interested in Linux Internals and Machine Learning
 - Strong focus on Data Structures & Algorithms
-- Exploring low-latency systems and performance optimization
 - Passionate about writing clean, maintainable and production-ready code
   
 ---
